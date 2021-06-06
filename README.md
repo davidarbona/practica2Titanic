@@ -17,7 +17,7 @@ En la práctica ha participado David Arbona Navarro.
    - test.csv: fichero csv con los datos de test con los que se va a trabajar del titanic
  
  - pdf/
-   - practica1.pdf: 
+   - practica2.pdf: fichero pdf con la respuesta a las preguntas de la práctica 2
  
  - src/
    - main.py: fichero python principal de ejecución del proceso de scrapinig.
