@@ -17,11 +17,10 @@ En la práctica ha participado David Arbona Navarro.
    - test.csv: fichero csv con los datos de test con los que se va a trabajar del titanic
  
  - pdf/
-   - practica2.pdf: fichero pdf con la respuesta a las preguntas de la práctica 2
+   - practica2.pdf: fichero pdf con la respuesta a las preguntas de la práctica
  
  - src/
-   - main.py: fichero python principal de ejecución del proceso de scrapinig.
-   - IMDBScraper.py: implementación de la clase IMDBScraper con los atributos y métodos para poder realizar el scraping a la web de IMDB
+   - practica2.R: fichero en código R con todo el código ejecutado para obtener los resultados de la practica.
 
 ## NOTAS ADICIONALES
 
