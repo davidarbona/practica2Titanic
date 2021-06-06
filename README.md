@@ -22,13 +22,13 @@ En la práctica ha participado David Arbona Navarro.
  - src/
    - practica2.R: fichero en código R con todo el código ejecutado para obtener los resultados de la practica.
 
-## NOTAS ADICIONALES
-
-
-
 
 ## RECURSOS UTILIZADOS
 
-- Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
-- Masip, D. (2010). El lenguaje Python. Editorial UOC.
+- Calvo M, Subirats L, Pérez D (2019). Introducción a la limpieza y análisis de los datos. Editorial UOC.
 - Github Guides: Mastering Markdown. https://guides.github.com/features/mastering-markdown/ (2014)
+- Squire, Megan (2015). Clean Data. Packt Publishing Ltd.
+- Peter Dalgaard (2008). Introductory statistics with R. Springer Science & Business Media.
+- Kaggle Inc. https://www.kaggle.com/c/titanic
+- 2021 Stack Exchange Inc. http://stackoverflow.com
+- 1996-2021 Encyclopedia Titanica. https://www.encyclopedia-titanica.org/
